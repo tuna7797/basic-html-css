@@ -1,18 +1,16 @@
-html{
-  font-size: 0.625em;
-}
-
-body{
+body {
   font-size: 1rem;
-  font-family: 'Noto Sans KR', sans-serif;
-  font-weight: 700;
+  font-family: "Noto Serif KR", serif;
 }
 
-h1{
+h1 {
   font-size: 3em;
 }
 
-p{
-  font-size: 2em;
+div {
+  font-size: 4px;
+}
+
+p {
   line-height: 1.5;
 }
